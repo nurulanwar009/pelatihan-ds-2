@@ -1,4 +1,4 @@
-import streamlist as st
+import streamlit as st
 import joblib
 import numpy as np
 
